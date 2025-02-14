@@ -4,13 +4,14 @@
 
 <center> 
   
-<figure class="thrid">  
+|  |  |  | 
+| --- | --- | --- |
+| <img src="https://github.com/user-attachments/assets/b0786640-29e5-47c8-b240-42fa4f8354f4" width="230" height="450" align='center'> | <img src="https://github.com/user-attachments/assets/bf4f0f4c-801b-4276-888c-13ed7d5f373b" width="230" height="450"align='center'> | <img src="https://github.com/user-attachments/assets/0d907fd3-d4f8-4073-ab4f-b318d1245a78" width="230" height="450"align='center'> |
 
-<img src="https://github.com/user-attachments/assets/b0786640-29e5-47c8-b240-42fa4f8354f4" width="230" height="450" align='center'>
-<img src="https://github.com/user-attachments/assets/bf4f0f4c-801b-4276-888c-13ed7d5f373b" width="230" height="450"align='center'>
-<img src="https://github.com/user-attachments/assets/0d907fd3-d4f8-4073-ab4f-b318d1245a78" width="230" height="450"align='center'>
 
-</figure>
+
+
+
 
  </center>
 
