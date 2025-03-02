@@ -94,7 +94,7 @@
 <br>
 
 ## 개발 일정 
-### 23.10.27 ~ 23.11.14
+### 23.09.27 ~ 23.11.14
 ![image (6)](https://github.com/user-attachments/assets/8bfac0f4-22a9-4ea8-ba2b-f9858524e09c)
 
 
