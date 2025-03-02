@@ -110,9 +110,9 @@
 |---|---|
 | **프레임워크** |  JAVA 11 / Spring Boot 2.7.18 / Spring Security |
 | **프론트엔드** | React 18.3.1 |
-| **지도API** | NAVER CLOUD PLATFORM (Maps) |
+| **지도API** | Kakao MAP API |
 | **데이터베이스(DB)** | PostgreSql 12 |
-| **ORM** | MyBatis 2.2.2 |
+| **ORM** | MyBatis 2.2.2 / Spring Data JPA 2.2 |
 | **클라우드** | Cloudinary / Amazon AWS RDS|
 | **개발 도구(IDE)** | IntelliJ IDEA, VSCode, Figma |
 | **협업** | Git , GitHub, Jira, Confluence |
