@@ -157,8 +157,7 @@
 
 ## 프로젝트 시연 영상
 
-https://drive.google.com/drive/u/0/home
-
+[](https://drive.google.com/file/d/1HZgPnxhq9PhDCmMZEjnZQv1LSjAwInbT/view?usp=sharing)](https://drive.google.com/file/d/1HZgPnxhq9PhDCmMZEjnZQv1LSjAwInbT/view?usp=sharing)
 
 
 
